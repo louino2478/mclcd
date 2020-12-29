@@ -8,4 +8,4 @@ video du projet : https://youtu.be/Wj4-3KntTi8
 
 ceci est un projet expérimental!
 le code n'est pas forcément propre.
-Vous êtes libres de le réutiliser partout voire-même de contribuer
+Vous êtes libres de le réutiliser partout.
